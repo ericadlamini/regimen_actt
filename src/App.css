@@ -1,12 +1,13 @@
 .App {
   font-family: sans-serif;
   text-align: center;
-  margin: 50px;
+  margin: 100px 80px;
   border: 1px solid #bfbcfc;
   border-radius: 5px;
   padding: 50px;
   background-color: #d1d4ff;
   color: #424549;
+  max-width: 600px;
 }
 .temperature {
   font-size: 100px;
