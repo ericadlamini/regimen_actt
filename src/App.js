@@ -63,18 +63,27 @@ export default function WeatherSearch() {
         </ul>
         <div className="footer">
           This app was Coded by{" "}
-          <a href="https://github.com/ericadlamini" target="blank">
+          <a
+            href="https://github.com/ericadlamini"
+            target="blank"
+            rel="noreferrer"
+          >
             Erica Dlamini
           </a>{" "}
           and is open-sourced on{" "}
           <a
-            href="https://github.com/ericadlamini/myweather-app"
+            href="https://github.com/ericadlamini/regimen_actt"
             target="_blank"
+            rel="noreferrer"
           >
             Github
           </a>{" "}
           and hosted on{" "}
-          <a href="https://mypowerfulweather.netlify.app/" target="_blank">
+          <a
+            href="https://react-git-net-ed.netlify.app"
+            target="_blank"
+            rel="noreferrer"
+          >
             Netlify
           </a>
         </div>
